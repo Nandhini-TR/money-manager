@@ -1,0 +1,36 @@
+.transaction-item {
+  display: flex;
+  border: 1px solid #cbd5e1;
+  margin-top: 0px;
+}
+
+.transaction-title {
+  color: #7e858e;
+  font-size: 14px;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.transaction-amount {
+  padding-left: 20px;
+  color: #7e858e;
+  font-size: 14px;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.transaction-type {
+  padding-left: 20px;
+  color: #7e858e;
+  font-size: 14px;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.delete-button {
+  height: 5px;
+  padding: 20px;
+  color: #7e858e;
+  background-color: #ffffff;
+  border: 0px;
+}

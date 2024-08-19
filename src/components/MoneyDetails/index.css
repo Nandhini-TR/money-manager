@@ -1,0 +1,77 @@
+.money-details-container {
+  display: flex;
+}
+
+.money-detail-card-balance-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #ecfccb;
+  display: flex;
+  margin: 20px;
+  width: 300px;
+  border: 1px solid #84cc16;
+}
+
+.money-detail-icon {
+  height: 40px;
+  background-color: #84cc16;
+  border-radius: 40px;
+}
+
+.amount-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.list-container {
+  display: flex;
+}
+
+.money-detail-title {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.money-detail-amount {
+  font-size: 20px;
+}
+
+.money-detail-card-income-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #cffafe;
+  display: flex;
+  margin: 20px;
+  width: 300px;
+  border: 1px solid #06b6d4;
+}
+
+.income-image {
+  height: 40px;
+  background-color: #06b6d4;
+  border-radius: 40px;
+}
+
+.money-detail-card-expenses-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #ede9fe;
+  display: flex;
+  margin: 20px;
+  width: 300px;
+  border: 1px solid #7c3aed;
+}
+
+.expense-image {
+  height: 40px;
+  background-color: #7c3aed;
+  border-radius: 40px;
+}
